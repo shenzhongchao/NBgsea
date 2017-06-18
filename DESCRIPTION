@@ -1,0 +1,14 @@
+Package: NBgsea
+Type: Package
+Title: Network-based gene set enrichment analysis
+Version: 1.0
+Date: 2014-10-17
+Author: Who wrote it
+Maintainer: Who to complain to <yourfault@somewhere.net>
+Description: More about what it does (maybe more than one line)
+License: What license is it under?
+Depends: Matrix,igraph,
+Imports: methods
+LazyLoad: no
+LazyData: false
+Packaged: 2014-10-17 15:45:49 UTC; Administrator
